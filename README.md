@@ -1,2 +1,2 @@
 # GolangPractice
-This is my frist Git Repository.
+This is my frist Git Repository <3.
